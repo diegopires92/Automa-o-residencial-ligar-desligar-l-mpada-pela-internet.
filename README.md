@@ -22,3 +22,5 @@ A programação do Arduino utiliza a biblioteca Ethernet que já vem embutida na
 No início do programa, altere as configurações de IP, default gateway e máscara de rede (linhas 15, 16 e 17) para que estejam adequadas à sua rede. O programa aguarda pela conexão do cliente (browser), e em seguida monta a página web com informações dos arquivos automacao_residencial.css e automacao_residencial.js, hospedados no servidor da FILIPEFLOP.
 
 ![automação-residencial-com-arduino-02.png](https://uploads.filipeflop.com/2015/11/automa%C3%A7%C3%A3o-residencial-com-arduino-02.png)
+
+FONTE:www.filipeflop.com
